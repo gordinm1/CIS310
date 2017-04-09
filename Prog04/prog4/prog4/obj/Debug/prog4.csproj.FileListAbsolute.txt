@@ -1,0 +1,6 @@
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\bin\Debug\prog4.exe.config
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\bin\Debug\prog4.exe
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\bin\Debug\prog4.pdb
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\obj\Debug\prog4.csprojResolveAssemblyReference.cache
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\obj\Debug\prog4.exe
+C:\Users\gordinm1\Documents\GitHub\CIS310\Prog04\prog4\prog4\obj\Debug\prog4.pdb
